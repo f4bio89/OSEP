@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\Masterclass\\Projetos\\Hollow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10C5FEA-BBFB-4A1C-9689-71434716B8AA}|Hollow\\Hollow.csproj|c:\\users\\aluno\\documents\\masterclass\\projetos\\hollow\\hollow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10C5FEA-BBFB-4A1C-9689-71434716B8AA}|Hollow\\Hollow.csproj|solutionrelative:hollow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\Masterclass\\Projetos\\Hollow\\Hollow\\Program.cs",
+              "RelativeDocumentMoniker": "Hollow\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\Masterclass\\Projetos\\Hollow\\Hollow\\Program.cs*",
+              "RelativeToolTip": "Hollow\\Program.cs*",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAowLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T00:00:40.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

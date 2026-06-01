@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\Masterclass\Projetos\CLM_Bypass\CLM_Bypass\CLM_Bypass\obj\x64\Release\CLM_Bypass.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Masterclass\Projetos\CLM_Bypass\CLM_Bypass\CLM_Bypass\obj\x64\Release\CLM_Bypass.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Masterclass\Projetos\CLM_Bypass\CLM_Bypass\CLM_Bypass\bin\x64\Release\CLM_Bypass.exe.config
+C:\Users\Aluno\Documents\Masterclass\Projetos\CLM_Bypass\CLM_Bypass\CLM_Bypass\bin\x64\Release\CLM_Bypass.exe
+C:\Users\Aluno\Documents\Masterclass\Projetos\CLM_Bypass\CLM_Bypass\CLM_Bypass\bin\x64\Release\CLM_Bypass.pdb
+C:\Users\Aluno\Documents\Masterclass\Projetos\CLM_Bypass\CLM_Bypass\CLM_Bypass\obj\x64\Release\CLM_Bypass.exe
+C:\Users\Aluno\Documents\Masterclass\Projetos\CLM_Bypass\CLM_Bypass\CLM_Bypass\obj\x64\Release\CLM_Bypass.pdb
+C:\Users\Aluno\Documents\Masterclass\Projetos\CLM_Bypass\CLM_Bypass\CLM_Bypass\obj\x64\Release\CLM_Bypass.exe.config
+C:\Users\Aluno\Documents\Masterclass\Projetos\CLM_Bypass\CLM_Bypass\CLM_Bypass\bin\x64\Release\System.Management.Automation.dll
+C:\Users\Aluno\Documents\Masterclass\Projetos\CLM_Bypass\CLM_Bypass\CLM_Bypass\obj\x64\Release\CLM_Bypass.csproj.Up2Date

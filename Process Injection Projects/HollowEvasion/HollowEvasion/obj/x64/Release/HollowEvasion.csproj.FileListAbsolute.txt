@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\HollowEvasion\HollowEvasion\bin\x64\Release\HollowEvasion.exe.config
+C:\Users\Administrator\source\repos\HollowEvasion\HollowEvasion\bin\x64\Release\HollowEvasion.exe
+C:\Users\Administrator\source\repos\HollowEvasion\HollowEvasion\bin\x64\Release\HollowEvasion.pdb
+C:\Users\Administrator\source\repos\HollowEvasion\HollowEvasion\obj\x64\Release\HollowEvasion.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\HollowEvasion\HollowEvasion\obj\x64\Release\HollowEvasion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HollowEvasion\HollowEvasion\obj\x64\Release\HollowEvasion.exe
+C:\Users\Administrator\source\repos\HollowEvasion\HollowEvasion\obj\x64\Release\HollowEvasion.pdb
+C:\Users\Aluno\Documents\Masterclass\Projetos\HollowEvasion\HollowEvasion\bin\x64\Release\HollowEvasion.exe.config
+C:\Users\Aluno\Documents\Masterclass\Projetos\HollowEvasion\HollowEvasion\bin\x64\Release\HollowEvasion.exe
+C:\Users\Aluno\Documents\Masterclass\Projetos\HollowEvasion\HollowEvasion\bin\x64\Release\HollowEvasion.pdb
+C:\Users\Aluno\Documents\Masterclass\Projetos\HollowEvasion\HollowEvasion\obj\x64\Release\HollowEvasion.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Masterclass\Projetos\HollowEvasion\HollowEvasion\obj\x64\Release\HollowEvasion.exe.config
+C:\Users\Aluno\Documents\Masterclass\Projetos\HollowEvasion\HollowEvasion\obj\x64\Release\HollowEvasion.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Masterclass\Projetos\HollowEvasion\HollowEvasion\obj\x64\Release\HollowEvasion.exe
+C:\Users\Aluno\Documents\Masterclass\Projetos\HollowEvasion\HollowEvasion\obj\x64\Release\HollowEvasion.pdb

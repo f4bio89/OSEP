@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\Masterclass\Projetos\SharpReflectivePEInjection-main\bin\x64\Release\SharpReflectivePEInjection.exe.config
+C:\Users\Aluno\Documents\Masterclass\Projetos\SharpReflectivePEInjection-main\bin\x64\Release\SharpReflectivePEInjection.exe
+C:\Users\Aluno\Documents\Masterclass\Projetos\SharpReflectivePEInjection-main\bin\x64\Release\SharpReflectivePEInjection.pdb
+C:\Users\Aluno\Documents\Masterclass\Projetos\SharpReflectivePEInjection-main\obj\x64\Release\SharpReflectivePEInjection.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Masterclass\Projetos\SharpReflectivePEInjection-main\obj\x64\Release\SharpReflectivePEInjection.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Masterclass\Projetos\SharpReflectivePEInjection-main\obj\x64\Release\SharpReflectivePEInjection.exe
+C:\Users\Aluno\Documents\Masterclass\Projetos\SharpReflectivePEInjection-main\obj\x64\Release\SharpReflectivePEInjection.pdb
